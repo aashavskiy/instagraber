@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+myvenv/
+
+# Environment
+.env
+
+# VSCode
+.vscode/
+
+# Session files
+*_session
+
+# MacOS
+.DS_Store
+
+# CSV exports
+followers.csv
